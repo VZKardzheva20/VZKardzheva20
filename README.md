@@ -13,12 +13,12 @@
        </ul>
        <p align="center">
          <br>
-        <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VZKardzheva20&hide=contribs,prs&theme=synthwave"/>
+        <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VZKardzheva20&hide=contribs,prs&theme=merko"/>
         </p>
     </td>
     <td>
      <p align="center">
-        <img height="360em" src="https://data.whicdn.com/images/199519864/original.gif"/>
+        <img height="360em" src="https://31.media.tumblr.com/09986226d8f379980ed638b5fd94b4cb/tumblr_msu2kr4D8J1scncwdo1_500.gif"/>
      </p>
     </td>
   </tr>
